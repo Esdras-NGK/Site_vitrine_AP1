@@ -235,10 +235,14 @@ section {
 section h2 {
     margin-bottom: 10px;
 }
-
+.team {
+    display: flex;
+    justify-content: space-around;
+}
 .member {
     text-align: center;
     margin-bottom: 20px;
+    
 }
 
 .member img {
